@@ -1,0 +1,1 @@
+If Python's built-in HTTPServer class didn't exist, you could use this multi-threaded HTTP(S) server to serve GET requests
